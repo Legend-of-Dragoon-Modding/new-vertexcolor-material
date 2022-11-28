@@ -25,6 +25,6 @@ the tab is called VertexColorMAT, click it and a simple button will be displayed
 ![alt text](https://github.com/Legend-of-Dragoon-Modding/new-vertexcolor-material/blob/main/Images/NewSelect_Blend.png)
 ![alt text](https://github.com/Legend-of-Dragoon-Modding/new-vertexcolor-material/blob/main/Images/Tab_Button.png)
 
-**__IMPORTANT:__ NO object must be selected or the addon will raise an error, be sure of have all the objects are de-selected. Also keep in mind, this tool will not automatically select the vertex coloured and applying the Surface settings, that must be done manually.**
+**__IMPORTANT:__ NO object must be selected or the addon will raise an error, be sure of all the objects being de-selected. Also keep in mind, this tool will not automatically select the vertex coloured and applying the Surface settings, that must be done manually.**
 
 <sub>Maybe in a model with very few objects and even if you work only with few models the tool help is not so noticeable, but when you do almost one thousand models you are saving around three thousand clicks (not counting the each object but the single model, so are way much more than three thousand), Mouse are not cheap lol.</sub>
